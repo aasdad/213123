@@ -1,3 +1,4 @@
 <script>
 var a="asdadasd";
-	<script>
+
+	</script>
